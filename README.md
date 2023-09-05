@@ -1,7 +1,7 @@
 # emailsort
 Sorts emails!
 
-** Prerequisites **
+# Prerequisites
 google-auth
 <br>
 google-auth-oauthlib 
