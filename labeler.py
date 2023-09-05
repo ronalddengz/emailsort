@@ -56,7 +56,7 @@ def makeLabel(name):
 
 ##### gross authentication stuff ew ew ew #####
 
-CLIENT_SECRET_FILE = '/Users/ronalddeng/Desktop/internship/presentation/emailsort/client_secret.json' # replace with path to client_secret.json on your device
+CLIENT_SECRET_FILE = '\path\to\client_secret.json' # replace with path to client_secret.json on your device
 API_NAME = 'gmail'
 API_VERSION = 'v1'
 SCOPES = ['https://mail.google.com/']
