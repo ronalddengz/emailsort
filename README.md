@@ -6,7 +6,6 @@ I wrote this program during my summer internship at the office of senator John L
 # Prerequisites
 If you wish to use this program for your own email sorting purposes, make sure to get your Gmail API something something authenticated. Also make sure you have these installed:
 <br>
-<br>
 google-auth
 <br>
 google-auth-oauthlib 
